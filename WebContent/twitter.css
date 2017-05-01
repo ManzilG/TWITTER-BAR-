@@ -1,0 +1,26 @@
+body{
+	background-color:green;
+}
+.container-fluid{
+	background-color: blue;
+	} 
+
+	.navbar-nav{
+	background-color: darkslateblue;
+		font-size: 20px;
+		font: bold;
+	}
+	
+.test{
+				text-align : center,
+				width: 300px;
+				float : left;
+				background-color : cadetblue;
+				border : 1px solid white;
+				overflow: hidden;
+				bottom:0;
+}
+.navbar-collapse{
+	
+	background-color: darkslateblue;
+}
